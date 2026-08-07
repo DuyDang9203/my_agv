@@ -3,6 +3,10 @@
 > A ROS 2 simulation package for a Differential Drive Autonomous Mobile Robot (AMR) in Gazebo. The system features multi-sensor fusion (**LiDAR, IMU, Camera**), autonomous navigation using **A\*** and **DWB Planner**, and real-time obstacle avoidance with dynamic obstacles (simulated moving pedestrians).
 
 ---
+<img width="1920" height="1080" alt="Screenshot from 2026-08-07 12-09-06" src="https://github.com/user-attachments/assets/41f1e687-586f-486f-808d-38dbb08ec41f" />
+<img width="1920" height="1080" alt="Screenshot from 2026-08-07 12-10-03" src="https://github.com/user-attachments/assets/56dac6a9-3981-4649-9c0e-4eefab0a7ea9" />
+<img width="2560" height="1440" alt="Screenshot from 2026-08-07 12-10-20" src="https://github.com/user-attachments/assets/47d74e84-3396-4348-90e1-37af985a5775" />
+
 
 ## 🌟 Key Features
 
